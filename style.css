@@ -15,6 +15,8 @@ header > h1{
     background-color: #159957;
     color: white;
     margin:0px;
+    box-shadow: 0px 0px 20px 10px grey;
+
 }
 #card_container{
     display: flex;
@@ -26,7 +28,7 @@ header > h1{
     text-align: center;
     padding:4rem 0;
     margin:auto;
-    margin-top:10px;
+    margin-top:20px;
     border-radius: 10px;
     background:rgba(20, 133, 94, 0.8);
     color:white;
@@ -50,11 +52,12 @@ footer{
     color: white;
 }
 #card_container > .tiles:hover{
-    background:rgba(20, 133, 94, 0.4);
+    background:rgba(20, 133, 94, 0.3);
     border:2px solid black;
     color: black;
-    box-shadow: 10px 10px 10px 0px gray;
+    box-shadow: 10px 10px 10px 0px #625454;
 }
+
 @media (min-width : 480px) and (max-width : 700px){
     #card_container > .tiles {
         width:46%;
@@ -63,5 +66,6 @@ footer{
 @media (max-width : 479px){
     #card_container > .tiles {
         width:90%;
+        margin-top:10px;
     }
 }
