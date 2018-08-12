@@ -4,6 +4,7 @@ html{
 }
 body{
     margin:auto;
+    height: 100%;
     position: relative;
     font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
@@ -38,11 +39,21 @@ footer{
     padding: 20px 0;
     text-align: center;
     width: 100%;
+    position: fixed;
     background:#f5f5f5;
+    font-size:12px;
+    color:gray;
 }
-#card_container > .tiles > a{
+
+#card_container > a{
     text-decoration: none;
     color: white;
+}
+#card_container > .tiles:hover{
+    background:rgba(20, 133, 94, 0.4);
+    border:2px solid black;
+    color: black;
+    box-shadow: 10px 10px 10px 0px gray;
 }
 @media (min-width : 480px) and (max-width : 700px){
     #card_container > .tiles {
