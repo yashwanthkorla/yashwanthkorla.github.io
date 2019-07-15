@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.73201c56.chunk.css",
+    "main.js": "/static/js/main.1db3e241.chunk.js",
+    "main.js.map": "/static/js/main.1db3e241.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.179f4c70.chunk.js": "/static/js/2.179f4c70.chunk.js",
+    "static/js/2.179f4c70.chunk.js.map": "/static/js/2.179f4c70.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.bb2eef8055632ba2ec4779ddf7191a88.js": "/precache-manifest.bb2eef8055632ba2ec4779ddf7191a88.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.73201c56.chunk.css.map": "/static/css/main.73201c56.chunk.css.map",
+    "static/media/loader.gif": "/static/media/loader.557336d4.gif",
+    "static/media/me.jpg": "/static/media/me.fb6c9a21.jpg",
+    "static/media/whennwhere.webp": "/static/media/whennwhere.fe0fddc7.webp",
+    "static/media/wordsapp.webp": "/static/media/wordsapp.924f9ca1.webp"
+  }
+}
